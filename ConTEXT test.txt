@@ -1,3 +1,9 @@
   #this is a test file im syncing with github via conTEXT
   #if you guys can edit this file, comment your name
+<<<<<<< HEAD
   #Brxt
+=======
+  #Brxt
+  #JLo
+#Formick
+>>>>>>> origin/master
