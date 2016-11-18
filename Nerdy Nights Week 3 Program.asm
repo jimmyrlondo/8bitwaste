@@ -28,7 +28,7 @@
   .org $0000
   .incbin "mario.chr"   ;includes 8KB graphics file from SMB1
   
-  ;==============VECORS==========================================
+  ;==============VECTORS==========================================
   
   .bank 1
   .org $FFFA     ;first of the three vectors starts here
